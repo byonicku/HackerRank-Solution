@@ -1,2 +1,2 @@
-# HackerRank-Soluton
-My HackerRank Solution
+Byonick - Hacker Rank Solution
+
