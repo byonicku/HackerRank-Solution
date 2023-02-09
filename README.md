@@ -1,2 +1,2 @@
-#Byonick - Hacker Rank Solution
+## Byonick - Hacker Rank Solution
 
